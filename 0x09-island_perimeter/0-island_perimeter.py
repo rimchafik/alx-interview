@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
 Define island_perimeter function that finds the perimeter
 of an island in a body of water
